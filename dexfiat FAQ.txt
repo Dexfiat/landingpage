@@ -1,0 +1,300 @@
+</div></div></div><div data-animate="fadeInUp" data-delay="0.3" class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-2 vc_col-md-8 animated"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-spacing-1  ot-tabs vc_tta-tabs-position-top vc_tta-controls-align-left"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab><a href="#1520927144944-4e219566-c71a" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Peer-to-peer (P2P) Dex</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1520937009638-39a59121-c4f6" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">DFT Token</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1520927153053-165c0f84-efe6" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">How to buy the DFT token</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1520927186706-24e6240e-867e" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Staking</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="1520927144944-4e219566-c71a" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1520927144944-4e219566-c71a" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Others</span></a></h4></div><div class="vc_tta-panel-body">
+        <div class="accordion" id="accordion-669">
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="" data-toggle="collapse" data-target="#collapse-953">
+                        How does the P2P auto trade  work?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-953" class="collapse show" data-parent="#accordion-669">
+                <div class="card-body">
+                    <p>Dexfiat uses Transfer to enable user deposit and withdraw but buying and selling of DNGN product. The automatic market maker automatically pair users to users and validate deposit on the paid users account, which eliminate fraud in the P2P space.
+</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-954">
+                       Can I cash-out my DNGN or any other synthetic fiat on the Dexfiat wallet?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-954" class="collapse " data-parent="#accordion-669">
+                <div class="card-body">
+                    <p>Yes, Users can sell off their DNGN holdings in the automated P2P market maker on Dexfiat P2P to receive equivalent amount in there registered account. </p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-955">
+                        Can I send DNGN out of Dexfiat to another non-Dexfiat wallet?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-955" class="collapse " data-parent="#accordion-669">
+                <div class="card-body">
+                    <p>Yes and No, the DNGN is built on Harmony network, so any harmony compatible wallet can receive  DNGN and well as DFT, the market to trade DNGN securely is only available on Dexfiat P2P and Decentralized exchange. however, DNGN can be sent between Dexfiat users directly at zero fees. (refer to DFT token section to see how the fee are used and spent).</p>
+                </div>
+            </div>
+        </div>
+    
+</div></div><div class="vc_tta-panel" id="1520937009638-39a59121-c4f6" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1520937009638-39a59121-c4f6" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">DFT Token</span></a></h4></div><div class="vc_tta-panel-body">
+        <div class="accordion" id="accordion-882">
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="" data-toggle="collapse" data-target="#collapse-780">
+                        Will the maximum supply of DFT in circulation ever change?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-780" class="collapse show" data-parent="#accordion-882">
+                <div class="card-body">
+                    <p>No, the maximum amount of DFT in circulation will never be increased and new DFT tokens will not appear on the market. except the Dexfiat community vote for a change in the protocol.</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-781">
+                        What is the starting and ending amount of DFT in circulation?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-781" class="collapse " data-parent="#accordion-882">
+                <div class="card-body">
+                    <p>The initial supply is 22 million (22,000,000) DFT. The final supply will be 7 million (7,000,000) DFT tokens.</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-783">
+                        How will the amount of DFT decrease?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-783" class="collapse " data-parent="#accordion-882">
+                <div class="card-body">
+                    <p>The supply of DFT tokens will decrease through their burning achieved due to the progressive deflation and the system of repurchase and burning of tokens by the company.</p>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-782">
+                        When is the 0.3% fee charged?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-782" class="collapse " data-parent="#accordion-882">
+                <div class="card-body">
+                    <p>Each transaction in the pool requires a maker fee of 0.3% which will be paid to the liquidity providers. </p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-783">
+                        When is 2% fee charged?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-783" class="collapse " data-parent="#accordion-882">
+                <div class="card-body">
+                    <p>Each transaction involving DFT tokens is subject to a fee of 2% of the total transaction value (50% of this fee is burned out, another 50% is redistributed through the DFT staking platform).</p>
+                </div>
+            </div>
+        </div>  
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-783">
+                       Can I use the DNGN to buy any listed currency on the Dexfiat platform?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-783" class="collapse " data-parent="#accordion-882">
+                <div class="card-body">
+                    <p>Yes, the DNGN can be used to buy any token or coin listed. though, there is no direct pairing of synthetic Fiat (DNGN, DUSD, DZAR etc) to another Synthetic fiat but user can still buy them following an automated route for example DNGN>DFT>DUSD. DFT is the intermediary token between the all  Synthetic fiat transaction. All synthetic token transaction between users of same token type are free but all external transaction outside same tokens attracts a pays a 2% fee in DFT while transacting a synthetic fiat to another tokens or coin.</p>
+                </div>
+            </div>
+        </div> 
+            </div>
+    
+</div></div><div class="vc_tta-panel" id="1520937009638-39a59121-c4f6" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1520937009638-39a59121-c4f6" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">How to buy DFT token</span></a></h4></div><div class="vc_tta-panel-body">
+        <div class="accordion" id="accordion-882">
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="" data-toggle="collapse" data-target="#collapse-538">
+                        Where can I buy the DFT token?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-538" class="collapse show" data-parent="#accordion-784">
+                <div class="card-body">
+                    <p>The Dexfiat DFT token will be listed on Dexfiat and Uniswap, as Dexfiat DFT is intended to be multi network token, DFT is launched on Harmony blockchain and will later be launched on Solana and possibly Binance smart chain.</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-539">
+                        Which private wallet do I need to have?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-539" class="collapse " data-parent="#accordion-784">
+                <div class="card-body">
+                    <p>In order to make a transaction on Dexfiat or Uniswap you must have a private wallet that supports HRC-20 or ERC20 protocol, e.g. Dexfiat wallet or MetaMask.</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-540">
+                        How can I pay for the tokens?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-540" class="collapse " data-parent="#accordion-784">
+                <div class="card-body">
+                    <p>Payment must be made by using the Harmony or Ethereum cryptocurrency - ONE or ETH.</p>
+                </div>
+            </div>
+        </div>
+                 <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-782">
+                        At what level should the slippage tolerance be set?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-782" class="collapse " data-parent="#accordion-882">
+                <div class="card-body">
+                    <p>We recommend setting the "slippage" tolerance on at least 2-5%, and in conditions of higher network load, even up to 8%.</p>
+                </div>
+            </div>
+        </div>
+            </div>
+    
+</div></div><div class="vc_tta-panel" id="1520937009638-39a59121-c4f6" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1520937009638-39a59121-c4f6" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Staking</span></a></h4></div><div class="vc_tta-panel-body">
+        <div class="accordion" id="accordion-882">
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="" data-toggle="collapse" data-target="#collapse-131">
+                        How many tokens can I stake?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-131" class="collapse show" data-parent="#accordion-483">
+                <div class="card-body">
+                    <p>The minimum number of tokens necessary to stake on the platform is 5,000 DFT. The upper limit is not specified.</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-132">
+                        When will the new staking platform be ready?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-132" class="collapse " data-parent="#accordion-483">
+                <div class="card-body">
+                    <p>The staking feature on the Dexfiat wallet  launched date will be announced on our social media pages, from that exact moment you will be able to stake your DFT tokens. Remember, that you have to use DEXFIAT wallet or MetaMask to connect to the new platform.</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-133">
+                        How is redistribution working?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-133" class="collapse " data-parent="#accordion-483">
+                <div class="card-body">
+                    <p>With the launch of Staking Platform  all tokens that have been collected in the form of a 1% fee on the total value of all transactions based on DFT in the previous month will go to the redistribution pool. Then, this pool will be distributed throughout the following month to all stakers on the platform - proportionally. This process will be repeated monthly.</p>
+                </div>
+            </div>
+        </div>
+            </div>
+
+</div></div><div class="vc_tta-panel" id="1520937009638-39a59121-c4f6" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1520937009638-39a59121-c4f6" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Others</span></a></h4></div><div class="vc_tta-panel-body">
+        <div class="accordion" id="accordion-882">
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="" data-toggle="collapse" data-target="#collapse-131">
+                        Why am I receiving private messages from alleged members of the DFT team?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-131" class="collapse show" data-parent="#accordion-483">
+                <div class="card-body">
+                    <p>This is NOT the Dexfiat team. There are many scammers on Telegram and other platforms who impersonate team members. None  of the Dexfiat  team will ever ask you for money or private keys. We recommend being extremely careful!</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-132">
+                        Where can I find official communication channels?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-132" class="collapse " data-parent="#accordion-483">
+                <div class="card-body">
+                    <p>Redirect icons are in the footer of the page, our official social channels are on Telegram, Twitter, Medium, Discord and YouTube. We encourage you to follow us on all communication channels.</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-133">
+                        Where will I get the answer to my question the fastest?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-133" class="collapse " data-parent="#accordion-483">
+                <div class="card-body">
+                    <p>At the moment, the fastest way to communicate is to join our Telegram group and ask a question in the chat. We will answer all your questions immediately or almost immediately.</p>
+                </div>
+            </div>
+        </div>
+                <div class="card">
+            <div class="card-header">
+                <h5>
+                    <a class="collapsed" data-toggle="collapse" data-target="#collapse-134">
+                        Where can I find more information about the project?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+                    </a>
+                </h5>
+            </div>
+            <div id="collapse-134" class="collapse " data-parent="#accordion-483">
+                <div class="card-body">
+                    <p>We encourage you to check out our WhitePaper - you will find fully detailed information there about Dexfiat; you can always ask a question directly in our social groups.</p>
+                </div>
+            </div>
+        </div>
+            </div>    
